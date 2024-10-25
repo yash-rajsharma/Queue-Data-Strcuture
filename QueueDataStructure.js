@@ -1,4 +1,6 @@
-//Queue Data Structure
+//Queue Data Structure :- A Queue is a linear data structure that follows the FIFO (First In, First Out) principle. This means that the first element added
+// to the queue will be the first one to be removed, similar to a real-life queue, like people standing in line. 
+
 
 class Node {
   constructor(value) {
